@@ -1,2 +1,10 @@
-# dacsn-2627
-DACSN de Jaime Abuin 26-27
+# DACSN 2026-2027
+ 
+Despliegue de Aplicaciones en Contenedores y Servicios en la Nube - 2º DAM
+ 
+- Alumno/a: Nombre Apellido
+- Servidor de trabajo: dockerhost
+ 
+## Prácticas
+ 
+(se irán añadiendo durante el curso)
