@@ -2,7 +2,7 @@
  
 Despliegue de Aplicaciones en Contenedores y Servicios en la Nube - 2º DAM
  
-- Alumno/a: Nombre Apellido
+- Alumno/a: Jaime Abuin
 - Servidor de trabajo: dockerhost
  
 ## Prácticas
